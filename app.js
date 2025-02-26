@@ -41,8 +41,8 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>Welcome to My DevOps App</h1>
-                <p>This is a DIFFICULT STEPS BUT EASY WAY to test the CI/CD pipeline deployment.</p>
+                <h1>Welcome to TNSDC AWS & DEVOPS COURSE</h1>
+                <p>This is a best way to test the CI/CD pipeline deployment.</p>
                 <p>Enjoy your automated deployments! 🚀</p>
                 <div class="footer">Deployed using AWS CodeBuild & Code Pipeline</div>
             </div>
