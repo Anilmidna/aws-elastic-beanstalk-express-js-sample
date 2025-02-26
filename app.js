@@ -42,7 +42,7 @@ app.get('/', (req, res) => {
         <body>
             <div class="container">
                 <h1>Welcome to My DevOps App</h1>
-                <p>This is a simple web page to test the CI/CD pipeline deployment.</p>
+                <p>This is a DIFFICULT STEPS BUT EASY WAY to test the CI/CD pipeline deployment.</p>
                 <p>Enjoy your automated deployments! 🚀</p>
                 <div class="footer">Deployed using AWS CodeBuild & Code Pipeline</div>
             </div>
